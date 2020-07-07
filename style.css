@@ -121,4 +121,7 @@ nav ul li a:hover {
     display: grid;
     grid-template-columns: auto;
   }
+  .video iframe {
+    width: 100%;
+  }
 }
