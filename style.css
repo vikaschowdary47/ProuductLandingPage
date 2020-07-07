@@ -92,8 +92,8 @@ nav ul li a:hover {
   color: black;
   margin: 15px;
   background-color: white;
-  border: 3px solid orange;
-  padding: 3px;
+  border: 4px solid orange;
+  padding: 5px;
   text-align: center;
 }
 .contact-details:hover {
